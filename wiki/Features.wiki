@@ -1,0 +1,25 @@
+#summary Features in the HoWang's Crossword Puzzle
+#labels Featured,Phase-Design
+
+= Introduction =
+
+In order to get higher marks in his coursework, the author added a lot of features into the program. Some are good features, some are eye candies, and some are just useless extra features.
+
+
+= Details =
+
+Interface
+  * Rainbow color change effects.
+  * Menu bar.
+
+Audio
+  * Welcome voice during program launch.
+  * TTS used in the program.
+
+Load and Save
+  * File format of crossword puzzle file (*.cpf) is defined by the author of this program.
+  * Can load a crossword puzzle file (*.cpf). 
+  * Built-in Editor to create / edit crossword puzzle file (*.cpf).
+
+Cheat function
+  * There is a function to show answers directly without playing.

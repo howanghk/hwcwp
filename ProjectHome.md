@@ -1,0 +1,1 @@
+Ho Wang's Crossword Puzzle is a fully functional simple crossword puzzle game. It was the author's school homework in 2004/2005. He gave up development and release it to the public and hope someone can pick it up and continue the development.
